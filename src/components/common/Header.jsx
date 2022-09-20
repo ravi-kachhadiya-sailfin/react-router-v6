@@ -71,7 +71,7 @@ const Header = () => {
     <Nav>
       <Container>
         <NavContainer>
-          <Logo onClick={handleLogoClick}>Router V6</Logo>
+          <Logo onClick={handleLogoClick}>Router V6 Test</Logo>
           <NavLinks>
             <NavLink to="/">Home</NavLink>
             {!!user && (
